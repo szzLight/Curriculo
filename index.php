@@ -9,14 +9,14 @@ $dados = [
     "experiencias" => [
         [
             "funcao" => "Supervisor de Segurança Residencial", 
-            "ano" => "2019 - Presente", 
+            "ano" => "2022 - Presente", 
             "desc" => "Monitoramento contínuo de portas, janelas e insetos.
                          Atuação estratégica durante madrugadas.
                         Resposta rápida a ameaças como sacolas e aspiradores de pó."
         ],
         [
             "funcao" => "Fiscal de Tigelas Vazias", 
-            "ano" => "2020 - Presente", 
+            "ano" => "2022 - Presente", 
             "desc" => "Inspeção diária e incessante de tigelas alimentares que possam estar preocupantemente vazias."
         ]
     ],
@@ -32,7 +32,7 @@ $dados = [
         [
             "curso" => "Curso de caça",
             "instituicao" => "Residência dos Souza (EAD)",
-            "ano" => "2019 - 2019",
+            "ano" => "2022 - 2022",
             "desc" => "Desisti porquê a barata corria mais que eu."
         ]
     ],
